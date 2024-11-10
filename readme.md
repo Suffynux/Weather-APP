@@ -1,4 +1,6 @@
-/* # Weather App
+Check the live Preview on : https://suffynux.github.io/Weather-APP/ 
+
+## Weather App
 
 A simple weather application built using JavaScript, HTML, CSS, and Tailwind CSS.
 
@@ -68,4 +70,4 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 
 ![image](https://github.com/user-attachments/assets/4292249b-c1f4-4c31-ad77-c7cfa6c5a4cd)
- */
+
